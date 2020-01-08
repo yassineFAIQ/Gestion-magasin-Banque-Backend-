@@ -2,7 +2,7 @@
 
 This is the Bank backend for this application : https://github.com/yassineFAIQ/Gestion-Magasin-JavaFx
 
-How to setup
+# How to setup
 
 Clone this repository
 Create a database called bdd_banque
